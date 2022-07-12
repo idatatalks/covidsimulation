@@ -1,2 +1,13 @@
-# covidsimulation
-A demo to simulate covid infections with a certain number of people 
+# Covid simulation
+**Purpose**: A simple simulation of Covid infection that shows how many people get infected per day until all are infected.<br><br>
+
+**Example**:<br>10 person in a room, one gets sick, given the parameter of how likely one is to pass it along to another person, how many days until they are all infected.<br><br> 
+
+**Output**: <br>Run the simulation over and over again to see average results and create a histogram of # days until pandemic ends.<br><br>
+
+
+
+**Precondition**:<br>The simulation is based on a constant infection rate no matter how many peole get infected.
+But in reality, the more infected people, the more likely other people get infected.
+
+**Solution**: &nbsp; python + jupyterlab + numpy + matplotlib
