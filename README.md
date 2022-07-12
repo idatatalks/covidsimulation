@@ -1,10 +1,12 @@
-# Covid simulation
+# Covid infection simulation
 **Purpose**: A simple simulation of Covid infection that shows how many people get infected per day until all are infected.<br><br>
 
 **Example**:<br>10 person in a room, one gets sick, given the parameter of how likely one is to pass it along to another person, how many days until they are all infected.<br><br> 
 
 **Output**: <br>Run the simulation over and over again to see average results and create a histogram of # days until pandemic ends.<br><br>
 
+![Infections per day](Covid_infection_simulation.jpg)
+![Average infection days](Average_infection_days.jpg)
 
 
 **Precondition**:<br>The simulation is based on a constant infection rate no matter how many peole get infected.
