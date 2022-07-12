@@ -17,7 +17,7 @@ But in reality, the more infected people, the more likely other people get infec
 
 **Solution**: &nbsp; python + jupyterlab + numpy + matplotlib
 
-**How to simulate**
-1.Install jupyterlab 
-2.Download notebook CovidSimulation.ipynb into your local folder and import it into your jupyterlab
-3.Modify the input parametes and run the notebook to do simulations
+**How to simulate:**<br>
+1.Install jupyterlab <br>
+2.Download notebook CovidSimulation.ipynb into your local folder and import it into your jupyterlab<br>
+3.Modify the input parametes and run the notebook to do simulations<br>
