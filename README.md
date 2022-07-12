@@ -16,3 +16,8 @@ timesOfSimulation = 10 #how many times of the pandemic simulation<br>
 But in reality, the more infected people, the more likely other people get infected.
 
 **Solution**: &nbsp; python + jupyterlab + numpy + matplotlib
+
+**How to simulate**
+1.Install jupyterlab 
+2.Download notebook CovidSimulation.ipynb into your local folder and import it into your jupyterlab
+3.Modify the input parametes and run the notebook to do simulations
